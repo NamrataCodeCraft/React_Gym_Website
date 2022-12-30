@@ -10,7 +10,7 @@ export default function Header() {
         <div className='container-header'>
             <div className='main'>
                 <div className='logo'>
-                    FunctionUp Gym
+                    Rock Planet GYM
                 </div>
 
                 <div className='middle-part'>
@@ -31,7 +31,7 @@ export default function Header() {
                     </p>
                     <p>
                         <div>
-                            <a href="#program">Programe</a>
+                            <a href="#program">Pragramme</a>
                         </div>
                     </p>
                 </div>
